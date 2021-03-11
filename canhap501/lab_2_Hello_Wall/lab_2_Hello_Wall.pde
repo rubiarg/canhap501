@@ -1,10 +1,10 @@
 /**
  **********************************************************************************************************************
- * @file       sketch_4_Wall_Physics.pde
- * @author     Steve Ding, Colin Gallacher
- * @version    V4.1.0
- * @date       08-January-2021
- * @brief      wall haptic example using 2D physics engine 
+ * @file       lab_2_Hello_Wall.pde
+ * @author     Rubia G.
+ * @version    V1.1.0
+ * @date       04-February-2021
+ * @brief      wall haptic maze using 2D physics engine 
  **********************************************************************************************************************
  * @attention
  *
