@@ -1,6 +1,6 @@
 /**
  **********************************************************************************************************************
- * @file       lab_3_layers.pde
+ * @file       lab_3_Communicate.pde
  * @author     Hannah E., Rubia G.
  * @version    V4.0.0
  * @date       10-March-2021
